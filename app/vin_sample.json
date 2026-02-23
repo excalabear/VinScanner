@@ -1,0 +1,16 @@
+{
+  "Count": 140,
+  "Message": "Sample",
+  "Results": [
+    {"Variable": "Make", "Value": "FORD"},
+    {"Variable": "Model", "Value": "F-150"},
+    {"Variable": "Model Year", "Value": "2018"},
+    {"Variable": "Drive Type", "Value": "4WD"},
+    {"Variable": "Transmission Style", "Value": "Automatic"},
+    {"Variable": "Transmission Speeds", "Value": "10"},
+    {"Variable": "Engine Model", "Value": "5.0L V8"},
+    {"Variable": "Engine Horsepower", "Value": "395"},
+    {"Variable": "Fuel Type - Primary", "Value": "Gasoline"},
+    {"Variable": "Body Class", "Value": "Pickup" }
+  ]
+}

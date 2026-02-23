@@ -1,0 +1,163 @@
+{
+    "title": "ford pts",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 598,
+            "height": 729,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://corp.sts.ford.com/adfs/oauth2/authorize/?client_id=urn%3Aptsociety%3Aclientid%3Aweb_ptsmainsite%3Aprod&redirect_uri=https%3A%2F%2Fwww.fordtechservice.dealerconnection.com%2F&resource=urn%3Aptsociety%3Aresource%3Aweb_ptsmainsite%3Aprod&response_type=code&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DMmGoHQFWPvmMjCB5oX_MQfT7U1Q0KONWtmu-9R2S1Oe9p6XnuEyVwJmGZn9FIaSZ092OAhgm7iR1C1cj1XbJnqlCAdU_G3gM3ctwpDWnibdszkqH_PVm4grWnLZ72rsoQma8e4G37auDvrTJ3GUv4Twuasp2dxYddT1ebDGB_5pc7auvAzUnWAhGsWUx0jZAAPjEjp-UBNCFfH3TEZGuBHZBpUdWxSjv8gZpB8exR4k5eXKlK5gpnsKXkWYRh7mwbELyiQ&response_mode=form_post&nonce=639014577965371726.YjE4ZDQwMzYtOTUwNy00YzViLTljZWQtZGYzNjBiZDBmMWM5NmM3ZWVkNjgtMjhmZS00ZDYzLTg3M2UtYTBmMGE0ZDY3YmU0&x-client-SKU=ID_NET461&x-client-ver=5.5.0.0",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://corp.sts.ford.com/adfs/oauth2/authorize/?client_id=urn%3Aptsociety%3Aclientid%3Aweb_ptsmainsite%3Aprod&redirect_uri=https%3A%2F%2Fwww.fordtechservice.dealerconnection.com%2F&resource=urn%3Aptsociety%3Aresource%3Aweb_ptsmainsite%3Aprod&response_type=code&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DMmGoHQFWPvmMjCB5oX_MQfT7U1Q0KONWtmu-9R2S1Oe9p6XnuEyVwJmGZn9FIaSZ092OAhgm7iR1C1cj1XbJnqlCAdU_G3gM3ctwpDWnibdszkqH_PVm4grWnLZ72rsoQma8e4G37auDvrTJ3GUv4Twuasp2dxYddT1ebDGB_5pc7auvAzUnWAhGsWUx0jZAAPjEjp-UBNCFfH3TEZGuBHZBpUdWxSjv8gZpB8exR4k5eXKlK5gpnsKXkWYRh7mwbELyiQ&response_mode=form_post&nonce=639014577965371726.YjE4ZDQwMzYtOTUwNy00YzViLTljZWQtZGYzNjBiZDBmMWM5NmM3ZWVkNjgtMjhmZS00ZDYzLTg3M2UtYTBmMGE0ZDY3YmU0&x-client-SKU=ID_NET461&x-client-ver=5.5.0.0",
+                    "title": "Home Realm Discovery"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(3) span"
+                ],
+                [
+                    "xpath///*[@id=\"bySelection\"]/div[3]/div/span"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) span"
+                ],
+                [
+                    "text/Dealer, Supplier,"
+                ]
+            ],
+            "offsetY": 14.48748779296875,
+            "offsetX": 63.80000305175781,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://corp.sts.ford.com/adfs/oauth2/authorize/?client_id=urn%3Aptsociety%3Aclientid%3Aweb_ptsmainsite%3Aprod&redirect_uri=https%3A%2F%2Fwww.fordtechservice.dealerconnection.com%2F&resource=urn%3Aptsociety%3Aresource%3Aweb_ptsmainsite%3Aprod&response_type=code&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DMmGoHQFWPvmMjCB5oX_MQfT7U1Q0KONWtmu-9R2S1Oe9p6XnuEyVwJmGZn9FIaSZ092OAhgm7iR1C1cj1XbJnqlCAdU_G3gM3ctwpDWnibdszkqH_PVm4grWnLZ72rsoQma8e4G37auDvrTJ3GUv4Twuasp2dxYddT1ebDGB_5pc7auvAzUnWAhGsWUx0jZAAPjEjp-UBNCFfH3TEZGuBHZBpUdWxSjv8gZpB8exR4k5eXKlK5gpnsKXkWYRh7mwbELyiQ&response_mode=form_post&nonce=639014577965371726.YjE4ZDQwMzYtOTUwNy00YzViLTljZWQtZGYzNjBiZDBmMWM5NmM3ZWVkNjgtMjhmZS00ZDYzLTg3M2UtYTBmMGE0ZDY3YmU0&x-client-SKU=ID_NET461&x-client-ver=5.5.0.0&client-request-id=6ef48be9-5030-42a8-096e-0180030000f7&RedirectToIdentityProvider=urn%3awslx%3aidp%3acookie%3ato%3asaml",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Username"
+                ],
+                [
+                    "#userName"
+                ],
+                [
+                    "xpath///*[@id=\"userName\"]"
+                ],
+                [
+                    "pierce/#userName"
+                ]
+            ],
+            "offsetY": 15.375,
+            "offsetX": 130.79999542236328
+        },
+        {
+            "type": "change",
+            "value": "T-floy23@b2bford.com",
+            "selectors": [
+                [
+                    "aria/Username"
+                ],
+                [
+                    "#userName"
+                ],
+                [
+                    "xpath///*[@id=\"userName\"]"
+                ],
+                [
+                    "pierce/#userName"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "Powerbombs1!!",
+            "selectors": [
+                [
+                    "aria/Password"
+                ],
+                [
+                    "#password"
+                ],
+                [
+                    "xpath///*[@id=\"password\"]"
+                ],
+                [
+                    "pierce/#password"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Next"
+                ],
+                [
+                    "#btn-id"
+                ],
+                [
+                    "xpath///*[@id=\"btn-id\"]"
+                ],
+                [
+                    "pierce/#btn-id"
+                ],
+                [
+                    "text/Next"
+                ]
+            ],
+            "offsetY": 20.375,
+            "offsetX": 96.64999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Login"
+                ],
+                [
+                    "#btn-sign-in"
+                ],
+                [
+                    "xpath///*[@id=\"btn-sign-in\"]"
+                ],
+                [
+                    "pierce/#btn-sign-in"
+                ],
+                [
+                    "text/Login"
+                ]
+            ],
+            "offsetY": 6.875,
+            "offsetX": 58.762481689453125,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.faust.idp.ford.com/signin",
+                    "title": ""
+                }
+            ]
+        }
+    ]
+}
